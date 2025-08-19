@@ -18,7 +18,7 @@ It uses pose detection to count exercise repetitions (like bicep curls) in real 
 
 ```bash
 # Clone the repository
-git clone https://github.com/AjaoFaisal/ai-trainer-mediapipe.git
+git clone https://github.com/faisal-ajao/ai-trainer-mediapipe.git
 cd ai-trainer-mediapipe
 
 # Create a virtual environment (optional)
