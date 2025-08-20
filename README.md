@@ -47,7 +47,7 @@ python main.py
 ---
 
 ## 📊 Output Example (Video)
-[![Watch the output](https://img.youtube.com/vi/LrVoDBY68iU/hqdefault.jpg)](https://youtu.be/LrVoDBY68iU?feature=shared)
+[![Watch the output](https://img.youtube.com/vi/pnbf4GINwHA/hqdefault.jpg)](https://youtu.be/pnbf4GINwHA?feature=shared)
 
 ---
 
