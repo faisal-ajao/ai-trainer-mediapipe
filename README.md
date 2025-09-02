@@ -1,11 +1,11 @@
-# 🏋️ AI Trainer with Mediapipe
+# AI Trainer with Mediapipe
 
 This project implements an AI-powered fitness trainer using Python, OpenCV, and Mediapipe.  
 It uses pose detection to count exercise repetitions (like bicep curls) in real time and provides visual feedback.
 
 ---
 
-## 🚀 Features
+## Features
 - Real-time human pose detection with Mediapipe.
 - Counts repetitions based on joint angles.
 - Displays percentage progress bar and rep count.
@@ -14,7 +14,7 @@ It uses pose detection to count exercise repetitions (like bicep curls) in real 
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 # Clone the repository
@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Usage
+## Usage
 
 ### Run the main script:
 Run:
@@ -46,12 +46,12 @@ python main.py
 
 ---
 
-## 📊 Output Example (Video)
+## Output Example (Video)
 [![Watch the output](https://img.youtube.com/vi/pnbf4GINwHA/hqdefault.jpg)](https://youtu.be/pnbf4GINwHA?feature=shared)
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 ai-trainer-mediapipe/
 ├── PoseModule.py          # Custom pose detection module using Mediapipe
@@ -62,7 +62,7 @@ ai-trainer-mediapipe/
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 - Python 3.11.5
 - OpenCV
 - Mediapipe
@@ -70,7 +70,7 @@ ai-trainer-mediapipe/
 
 ---
 
-## 📜 License
+## License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
 ---
